@@ -3,14 +3,10 @@ Welcome to my portfolio app! This project showcases my work in web and mobile de
 
 Download the App
 Click the link below to download and explore the mobile version of my portfolio:
-
-Download the App
+https://expo.dev/accounts/thakurbhavesh/projects/BhaveshPortfolio/builds/718381f7-51ab-400c-b8a6-b2333113a29a
 
 Visit the Website
-You can also view the web version of my portfolio here:
-
-
-
+https://bhaveshportfoliowebsite.netlify.app/
 
 🛠️ Technologies Used
 React Native
