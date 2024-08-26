@@ -1,12 +1,15 @@
-🎨 Bhavesh Portfolio App
-Welcome to Bhavesh Portfolio App! This project showcases my work in web development and mobile app development, highlighting my skills, technologies, and the exciting projects I've been working on. Explore and get in touch!
+Bhavesh Portfolio App
+Welcome to my portfolio app! This project showcases my work in web and mobile development, highlighting various projects, skills, and technologies I have worked with.
 
-📲 Download the App
-Experience the mobile version of my portfolio by downloading the app from Expo:
+Download the App
+Click the link below to download and explore the mobile version of my portfolio:
+
+Download the App
+
+Visit the Website
+You can also view the web version of my portfolio here:
 
 
-🌐 Visit the Website
-Prefer the web experience? Check out my portfolio website:
 
 
 🛠️ Technologies Used
